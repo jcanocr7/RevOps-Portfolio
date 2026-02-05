@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python revenue_forecast.py:*)",
+      "Bash(dir:*)",
+      "Bash(git add:*)",
+      "Bash(git config:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nComplete RevOps analytics portfolio with SQL queries and Python forecasting\n\n- Add PostgreSQL schema with tables for customers, subscriptions, usage_events, and sales_touches\n- Implement cohort retention analysis query with month-over-month retention rates\n- Add MRR waterfall query decomposing revenue into new, expansion, contraction, and churn\n- Create expansion readiness scoring to identify upsell opportunities\n- Build churn risk segmentation combining usage trends and sales engagement\n- Add channel LTV efficiency analysis for marketing ROI insights\n- Complete Python revenue forecasting with retention curves and scenario projections\n- Add Jupyter notebook with presentation-ready analysis and visualizations\n- Document methodology explaining data model and analytical approaches\nEOF\n\\)\")"
+    ]
+  }
+}

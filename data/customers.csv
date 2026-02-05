@@ -1,0 +1,501 @@
+customer_id,company_name,industry,country,acquisition_channel,signup_date,employee_count
+CUST_0001,Company_1,E-commerce,Germany,Paid Ads,2024-05-23,25
+CUST_0002,Company_2,E-commerce,France,Partner,2023-09-10,10
+CUST_0003,Company_3,Media,Germany,Direct,2024-04-28,25
+CUST_0004,Company_4,SaaS,France,Referral,2024-03-15,500
+CUST_0005,Company_5,Media,Germany,Referral,2024-04-05,1000
+CUST_0006,Company_6,SaaS,Netherlands,Direct,2024-09-18,100
+CUST_0007,Company_7,Manufacturing,Germany,Events,2023-12-22,50
+CUST_0008,Company_8,E-commerce,UK,Paid Ads,2023-08-22,50
+CUST_0009,Company_9,Manufacturing,Spain,Referral,2024-05-05,250
+CUST_0010,Company_10,Media,Germany,Paid Ads,2023-09-02,500
+CUST_0011,Company_11,Consulting,France,Referral,2024-05-12,10
+CUST_0012,Company_12,Healthcare,Netherlands,Events,2024-06-03,1000
+CUST_0013,Company_13,E-commerce,UK,Paid Ads,2023-10-28,1000
+CUST_0014,Company_14,Finance,UK,Direct,2024-01-03,50
+CUST_0015,Company_15,E-commerce,France,Direct,2024-06-24,500
+CUST_0016,Company_16,Finance,UK,Paid Ads,2023-11-03,500
+CUST_0017,Company_17,Healthcare,France,Partner,2024-06-17,1000
+CUST_0018,Company_18,Healthcare,Spain,Partner,2023-07-29,100
+CUST_0019,Company_19,E-commerce,Germany,Events,2023-11-15,500
+CUST_0020,Company_20,Healthcare,France,Paid Ads,2023-12-09,500
+CUST_0021,Company_21,Finance,Germany,Direct,2024-02-20,250
+CUST_0022,Company_22,Manufacturing,Netherlands,Paid Ads,2024-04-01,250
+CUST_0023,Company_23,Consulting,Germany,Events,2024-01-21,250
+CUST_0024,Company_24,E-commerce,Netherlands,Partner,2024-03-09,25
+CUST_0025,Company_25,Finance,Netherlands,Paid Ads,2024-05-17,10
+CUST_0026,Company_26,Media,France,Paid Ads,2024-01-14,50
+CUST_0027,Company_27,SaaS,France,Direct,2024-04-09,250
+CUST_0028,Company_28,Manufacturing,Netherlands,Paid Ads,2024-07-19,50
+CUST_0029,Company_29,Finance,UK,Events,2024-02-08,500
+CUST_0030,Company_30,Finance,UK,Direct,2023-11-12,500
+CUST_0031,Company_31,Healthcare,Germany,Partner,2023-11-30,250
+CUST_0032,Company_32,SaaS,France,Paid Ads,2024-10-31,10
+CUST_0033,Company_33,Consulting,Spain,Partner,2024-10-18,50
+CUST_0034,Company_34,SaaS,Germany,Referral,2023-10-31,10
+CUST_0035,Company_35,Education,Spain,Events,2023-08-13,250
+CUST_0036,Company_36,Finance,Germany,Paid Ads,2024-07-27,250
+CUST_0037,Company_37,Manufacturing,UK,Referral,2023-09-23,25
+CUST_0038,Company_38,Healthcare,Netherlands,Paid Ads,2024-10-18,500
+CUST_0039,Company_39,Consulting,UK,Paid Ads,2024-05-28,10
+CUST_0040,Company_40,Healthcare,Germany,Direct,2023-11-04,250
+CUST_0041,Company_41,Healthcare,Germany,Referral,2023-10-26,10
+CUST_0042,Company_42,E-commerce,Italy,Partner,2023-10-26,10
+CUST_0043,Company_43,Healthcare,Germany,Paid Ads,2024-03-20,250
+CUST_0044,Company_44,Education,Germany,Paid Ads,2023-09-06,100
+CUST_0045,Company_45,E-commerce,Germany,Paid Ads,2023-10-06,100
+CUST_0046,Company_46,Education,Spain,Direct,2024-01-27,500
+CUST_0047,Company_47,E-commerce,Germany,Referral,2024-05-26,1000
+CUST_0048,Company_48,E-commerce,Germany,Direct,2024-09-14,100
+CUST_0049,Company_49,Media,Germany,Paid Ads,2023-09-10,1000
+CUST_0050,Company_50,E-commerce,UK,Partner,2024-10-15,250
+CUST_0051,Company_51,SaaS,France,Paid Ads,2023-08-20,10
+CUST_0052,Company_52,Healthcare,Germany,Paid Ads,2023-08-17,25
+CUST_0053,Company_53,Media,Italy,Direct,2024-09-15,10
+CUST_0054,Company_54,Manufacturing,Italy,Partner,2024-01-16,50
+CUST_0055,Company_55,Education,Germany,Paid Ads,2024-02-02,10
+CUST_0056,Company_56,SaaS,Netherlands,Direct,2024-04-22,250
+CUST_0057,Company_57,Finance,Germany,Paid Ads,2024-03-01,1000
+CUST_0058,Company_58,E-commerce,France,Referral,2023-10-04,25
+CUST_0059,Company_59,E-commerce,Italy,Referral,2024-01-23,250
+CUST_0060,Company_60,SaaS,France,Paid Ads,2024-04-30,250
+CUST_0061,Company_61,Consulting,Italy,Direct,2024-04-15,500
+CUST_0062,Company_62,Healthcare,Germany,Direct,2023-12-08,500
+CUST_0063,Company_63,Education,Germany,Partner,2023-12-01,10
+CUST_0064,Company_64,Education,France,Referral,2023-07-05,10
+CUST_0065,Company_65,Healthcare,UK,Direct,2023-08-07,50
+CUST_0066,Company_66,E-commerce,Spain,Paid Ads,2024-09-24,25
+CUST_0067,Company_67,Manufacturing,France,Events,2024-02-10,500
+CUST_0068,Company_68,SaaS,France,Referral,2024-03-27,500
+CUST_0069,Company_69,Finance,Germany,Partner,2023-08-23,500
+CUST_0070,Company_70,Finance,Germany,Referral,2024-04-09,500
+CUST_0071,Company_71,Healthcare,France,Partner,2023-12-23,250
+CUST_0072,Company_72,Manufacturing,Italy,Partner,2024-03-07,10
+CUST_0073,Company_73,Media,Spain,Direct,2024-05-20,50
+CUST_0074,Company_74,Finance,France,Paid Ads,2024-07-29,500
+CUST_0075,Company_75,Media,France,Direct,2024-02-12,500
+CUST_0076,Company_76,Finance,UK,Partner,2024-10-05,250
+CUST_0077,Company_77,Finance,UK,Direct,2024-04-08,50
+CUST_0078,Company_78,SaaS,Italy,Direct,2024-10-03,25
+CUST_0079,Company_79,E-commerce,UK,Referral,2024-06-06,1000
+CUST_0080,Company_80,Finance,Italy,Direct,2024-01-25,25
+CUST_0081,Company_81,Finance,Italy,Direct,2024-08-13,500
+CUST_0082,Company_82,Consulting,Netherlands,Paid Ads,2024-10-16,500
+CUST_0083,Company_83,Healthcare,Germany,Partner,2024-09-15,10
+CUST_0084,Company_84,SaaS,Spain,Direct,2024-01-12,1000
+CUST_0085,Company_85,Education,Germany,Partner,2024-10-13,1000
+CUST_0086,Company_86,Healthcare,Germany,Direct,2023-10-25,50
+CUST_0087,Company_87,E-commerce,Other EU,Paid Ads,2023-11-20,500
+CUST_0088,Company_88,Media,France,Partner,2024-03-17,50
+CUST_0089,Company_89,SaaS,Germany,Events,2024-10-23,25
+CUST_0090,Company_90,Manufacturing,Germany,Referral,2024-04-23,50
+CUST_0091,Company_91,Consulting,UK,Events,2024-07-08,10
+CUST_0092,Company_92,Healthcare,Germany,Referral,2024-01-14,10
+CUST_0093,Company_93,Healthcare,UK,Direct,2024-03-23,500
+CUST_0094,Company_94,Consulting,France,Referral,2024-10-14,10
+CUST_0095,Company_95,Manufacturing,UK,Referral,2024-07-03,50
+CUST_0096,Company_96,Manufacturing,France,Direct,2024-01-23,500
+CUST_0097,Company_97,Media,France,Events,2024-10-24,250
+CUST_0098,Company_98,Manufacturing,UK,Partner,2024-04-17,50
+CUST_0099,Company_99,Healthcare,UK,Referral,2023-11-24,500
+CUST_0100,Company_100,Education,UK,Referral,2023-12-12,250
+CUST_0101,Company_101,Finance,France,Paid Ads,2024-02-28,500
+CUST_0102,Company_102,Consulting,Germany,Events,2024-05-20,25
+CUST_0103,Company_103,Manufacturing,Germany,Direct,2024-06-09,10
+CUST_0104,Company_104,Healthcare,Other EU,Referral,2023-07-24,1000
+CUST_0105,Company_105,Education,UK,Referral,2023-08-07,25
+CUST_0106,Company_106,Media,UK,Direct,2024-07-02,500
+CUST_0107,Company_107,SaaS,Italy,Partner,2024-06-17,10
+CUST_0108,Company_108,Media,Germany,Partner,2024-08-02,500
+CUST_0109,Company_109,Education,Germany,Direct,2024-03-22,1000
+CUST_0110,Company_110,Education,Germany,Paid Ads,2023-09-01,250
+CUST_0111,Company_111,Consulting,Other EU,Partner,2024-04-12,250
+CUST_0112,Company_112,Media,Spain,Paid Ads,2024-08-21,25
+CUST_0113,Company_113,Education,UK,Partner,2024-07-15,1000
+CUST_0114,Company_114,Manufacturing,Netherlands,Paid Ads,2024-05-22,500
+CUST_0115,Company_115,Manufacturing,UK,Referral,2023-10-31,25
+CUST_0116,Company_116,Consulting,Germany,Paid Ads,2023-11-17,25
+CUST_0117,Company_117,Healthcare,UK,Direct,2023-09-16,25
+CUST_0118,Company_118,Media,UK,Paid Ads,2023-08-02,100
+CUST_0119,Company_119,Healthcare,Spain,Paid Ads,2023-08-01,1000
+CUST_0120,Company_120,SaaS,Spain,Partner,2024-04-25,100
+CUST_0121,Company_121,SaaS,Italy,Paid Ads,2024-03-01,100
+CUST_0122,Company_122,Media,UK,Referral,2024-09-09,1000
+CUST_0123,Company_123,Healthcare,UK,Paid Ads,2024-05-04,100
+CUST_0124,Company_124,Media,Germany,Referral,2023-07-15,100
+CUST_0125,Company_125,Finance,Spain,Events,2024-07-05,250
+CUST_0126,Company_126,SaaS,Italy,Referral,2024-03-30,500
+CUST_0127,Company_127,E-commerce,France,Direct,2023-07-14,100
+CUST_0128,Company_128,SaaS,Germany,Paid Ads,2023-10-02,100
+CUST_0129,Company_129,Consulting,Netherlands,Paid Ads,2023-12-15,1000
+CUST_0130,Company_130,Media,Germany,Direct,2024-10-30,10
+CUST_0131,Company_131,SaaS,Other EU,Paid Ads,2024-07-18,500
+CUST_0132,Company_132,SaaS,Netherlands,Events,2023-08-05,25
+CUST_0133,Company_133,SaaS,France,Direct,2024-09-02,100
+CUST_0134,Company_134,E-commerce,France,Direct,2024-06-07,500
+CUST_0135,Company_135,Consulting,Germany,Referral,2023-11-09,500
+CUST_0136,Company_136,E-commerce,Netherlands,Direct,2024-07-02,50
+CUST_0137,Company_137,SaaS,Italy,Referral,2023-08-25,100
+CUST_0138,Company_138,Healthcare,Germany,Referral,2024-01-20,500
+CUST_0139,Company_139,E-commerce,France,Paid Ads,2023-11-02,500
+CUST_0140,Company_140,E-commerce,Netherlands,Referral,2024-05-03,10
+CUST_0141,Company_141,Media,France,Direct,2023-12-25,500
+CUST_0142,Company_142,SaaS,Spain,Partner,2023-12-22,10
+CUST_0143,Company_143,Consulting,France,Partner,2024-02-07,500
+CUST_0144,Company_144,Media,Germany,Paid Ads,2023-09-17,500
+CUST_0145,Company_145,Education,UK,Partner,2023-11-16,250
+CUST_0146,Company_146,Consulting,Spain,Partner,2023-11-15,10
+CUST_0147,Company_147,Education,Germany,Paid Ads,2023-11-20,250
+CUST_0148,Company_148,Media,Germany,Paid Ads,2024-06-07,50
+CUST_0149,Company_149,Education,Germany,Partner,2023-10-02,50
+CUST_0150,Company_150,Manufacturing,France,Paid Ads,2023-11-21,25
+CUST_0151,Company_151,Healthcare,Netherlands,Paid Ads,2023-08-13,1000
+CUST_0152,Company_152,Education,France,Paid Ads,2023-11-01,1000
+CUST_0153,Company_153,E-commerce,Germany,Paid Ads,2023-07-09,25
+CUST_0154,Company_154,Consulting,UK,Paid Ads,2023-12-04,100
+CUST_0155,Company_155,Consulting,UK,Paid Ads,2024-07-16,50
+CUST_0156,Company_156,Healthcare,Germany,Direct,2023-11-06,10
+CUST_0157,Company_157,Finance,Germany,Referral,2024-07-15,50
+CUST_0158,Company_158,Manufacturing,Other EU,Partner,2024-07-05,50
+CUST_0159,Company_159,Consulting,Germany,Direct,2023-10-25,250
+CUST_0160,Company_160,Manufacturing,Germany,Direct,2023-09-03,50
+CUST_0161,Company_161,Finance,France,Partner,2024-06-22,10
+CUST_0162,Company_162,SaaS,France,Paid Ads,2024-09-19,100
+CUST_0163,Company_163,Finance,Other EU,Paid Ads,2023-12-22,1000
+CUST_0164,Company_164,E-commerce,Spain,Paid Ads,2024-03-01,10
+CUST_0165,Company_165,SaaS,Germany,Partner,2024-04-21,50
+CUST_0166,Company_166,Healthcare,Germany,Partner,2023-08-13,250
+CUST_0167,Company_167,Healthcare,Netherlands,Paid Ads,2024-05-01,100
+CUST_0168,Company_168,Media,Germany,Referral,2023-11-30,250
+CUST_0169,Company_169,E-commerce,Italy,Direct,2024-07-13,25
+CUST_0170,Company_170,E-commerce,Germany,Direct,2023-11-13,10
+CUST_0171,Company_171,SaaS,UK,Referral,2023-09-19,100
+CUST_0172,Company_172,SaaS,Germany,Referral,2023-11-27,500
+CUST_0173,Company_173,Education,Germany,Direct,2024-09-13,50
+CUST_0174,Company_174,Healthcare,UK,Paid Ads,2024-08-07,500
+CUST_0175,Company_175,Manufacturing,Spain,Direct,2023-09-15,25
+CUST_0176,Company_176,Manufacturing,France,Partner,2024-08-09,50
+CUST_0177,Company_177,E-commerce,UK,Paid Ads,2024-02-10,100
+CUST_0178,Company_178,Manufacturing,UK,Paid Ads,2024-10-25,10
+CUST_0179,Company_179,SaaS,Italy,Referral,2024-05-02,250
+CUST_0180,Company_180,SaaS,Germany,Events,2023-11-06,1000
+CUST_0181,Company_181,SaaS,Other EU,Referral,2024-09-13,50
+CUST_0182,Company_182,SaaS,Netherlands,Direct,2024-04-21,250
+CUST_0183,Company_183,Education,Italy,Direct,2024-05-29,250
+CUST_0184,Company_184,Education,Other EU,Paid Ads,2024-02-09,100
+CUST_0185,Company_185,Consulting,France,Partner,2023-12-18,50
+CUST_0186,Company_186,Education,Germany,Events,2024-01-27,1000
+CUST_0187,Company_187,SaaS,UK,Paid Ads,2024-07-24,50
+CUST_0188,Company_188,Media,Spain,Partner,2023-08-29,10
+CUST_0189,Company_189,Education,UK,Direct,2024-06-01,50
+CUST_0190,Company_190,Education,France,Partner,2024-05-14,25
+CUST_0191,Company_191,Finance,Italy,Paid Ads,2023-11-14,500
+CUST_0192,Company_192,E-commerce,Germany,Referral,2024-03-05,1000
+CUST_0193,Company_193,Finance,Germany,Direct,2023-10-31,100
+CUST_0194,Company_194,Healthcare,Other EU,Events,2023-08-17,100
+CUST_0195,Company_195,E-commerce,France,Direct,2024-10-27,500
+CUST_0196,Company_196,Manufacturing,UK,Paid Ads,2023-11-27,100
+CUST_0197,Company_197,Education,France,Paid Ads,2023-11-02,250
+CUST_0198,Company_198,Finance,Spain,Paid Ads,2024-03-17,1000
+CUST_0199,Company_199,Media,Germany,Partner,2024-09-10,50
+CUST_0200,Company_200,SaaS,Germany,Paid Ads,2024-08-24,250
+CUST_0201,Company_201,Education,Spain,Paid Ads,2024-04-22,100
+CUST_0202,Company_202,Consulting,France,Paid Ads,2023-12-24,100
+CUST_0203,Company_203,Consulting,Spain,Events,2024-10-20,25
+CUST_0204,Company_204,Media,Germany,Partner,2024-04-18,10
+CUST_0205,Company_205,Education,Netherlands,Partner,2023-12-10,100
+CUST_0206,Company_206,Finance,UK,Direct,2024-06-04,250
+CUST_0207,Company_207,Consulting,Spain,Partner,2024-04-28,100
+CUST_0208,Company_208,Education,Germany,Direct,2023-08-21,1000
+CUST_0209,Company_209,Finance,Germany,Partner,2024-05-31,50
+CUST_0210,Company_210,Media,France,Partner,2023-12-21,1000
+CUST_0211,Company_211,Media,Other EU,Referral,2024-06-10,1000
+CUST_0212,Company_212,SaaS,France,Direct,2024-03-06,500
+CUST_0213,Company_213,Manufacturing,Other EU,Referral,2024-10-14,100
+CUST_0214,Company_214,E-commerce,UK,Referral,2023-08-20,10
+CUST_0215,Company_215,Consulting,Netherlands,Paid Ads,2023-07-24,50
+CUST_0216,Company_216,Finance,Germany,Paid Ads,2024-02-06,500
+CUST_0217,Company_217,Finance,Germany,Direct,2024-08-09,1000
+CUST_0218,Company_218,Healthcare,UK,Referral,2024-01-12,25
+CUST_0219,Company_219,Manufacturing,UK,Referral,2024-02-22,1000
+CUST_0220,Company_220,Manufacturing,France,Direct,2024-02-24,100
+CUST_0221,Company_221,Consulting,Other EU,Paid Ads,2024-10-26,100
+CUST_0222,Company_222,Manufacturing,UK,Paid Ads,2024-06-18,100
+CUST_0223,Company_223,Education,Germany,Paid Ads,2024-09-09,50
+CUST_0224,Company_224,Manufacturing,Other EU,Paid Ads,2024-04-20,1000
+CUST_0225,Company_225,Media,Germany,Referral,2024-06-02,500
+CUST_0226,Company_226,SaaS,Italy,Referral,2024-08-02,1000
+CUST_0227,Company_227,Manufacturing,Netherlands,Direct,2024-10-05,1000
+CUST_0228,Company_228,Healthcare,France,Referral,2023-12-28,500
+CUST_0229,Company_229,Finance,France,Events,2024-07-21,500
+CUST_0230,Company_230,Manufacturing,Netherlands,Direct,2023-07-21,50
+CUST_0231,Company_231,Finance,Germany,Paid Ads,2024-07-09,500
+CUST_0232,Company_232,Finance,Germany,Partner,2024-01-29,50
+CUST_0233,Company_233,Manufacturing,Spain,Paid Ads,2024-03-28,1000
+CUST_0234,Company_234,Education,Other EU,Paid Ads,2024-10-26,1000
+CUST_0235,Company_235,E-commerce,UK,Direct,2023-12-21,1000
+CUST_0236,Company_236,Media,Other EU,Partner,2023-10-24,50
+CUST_0237,Company_237,Media,Germany,Paid Ads,2023-08-16,100
+CUST_0238,Company_238,Manufacturing,France,Partner,2024-01-05,50
+CUST_0239,Company_239,Healthcare,UK,Referral,2023-08-25,250
+CUST_0240,Company_240,Healthcare,France,Referral,2023-12-15,100
+CUST_0241,Company_241,Manufacturing,France,Direct,2024-10-08,10
+CUST_0242,Company_242,SaaS,Germany,Paid Ads,2024-10-27,10
+CUST_0243,Company_243,Finance,UK,Paid Ads,2023-10-29,500
+CUST_0244,Company_244,Media,France,Referral,2024-06-21,100
+CUST_0245,Company_245,E-commerce,Spain,Referral,2024-05-31,50
+CUST_0246,Company_246,Consulting,Germany,Paid Ads,2023-07-17,25
+CUST_0247,Company_247,Consulting,Germany,Referral,2024-09-10,250
+CUST_0248,Company_248,Consulting,Germany,Paid Ads,2024-10-04,10
+CUST_0249,Company_249,Education,Germany,Direct,2024-10-28,500
+CUST_0250,Company_250,SaaS,Germany,Paid Ads,2024-05-01,25
+CUST_0251,Company_251,Healthcare,Germany,Partner,2024-08-06,25
+CUST_0252,Company_252,Healthcare,Spain,Direct,2024-04-26,1000
+CUST_0253,Company_253,SaaS,Germany,Events,2023-09-14,25
+CUST_0254,Company_254,Manufacturing,Netherlands,Direct,2024-04-02,1000
+CUST_0255,Company_255,Finance,Germany,Partner,2023-07-14,25
+CUST_0256,Company_256,Consulting,Germany,Paid Ads,2024-04-27,25
+CUST_0257,Company_257,Media,UK,Referral,2024-07-14,100
+CUST_0258,Company_258,Consulting,UK,Direct,2024-02-15,250
+CUST_0259,Company_259,SaaS,Netherlands,Events,2023-10-22,500
+CUST_0260,Company_260,Manufacturing,UK,Events,2024-03-23,10
+CUST_0261,Company_261,Media,UK,Direct,2024-03-02,500
+CUST_0262,Company_262,Education,Germany,Direct,2024-10-08,250
+CUST_0263,Company_263,E-commerce,Germany,Referral,2023-09-14,250
+CUST_0264,Company_264,Consulting,UK,Referral,2024-04-06,50
+CUST_0265,Company_265,Media,Germany,Referral,2024-02-18,1000
+CUST_0266,Company_266,Healthcare,UK,Partner,2024-05-31,100
+CUST_0267,Company_267,Education,UK,Referral,2023-12-21,50
+CUST_0268,Company_268,Consulting,France,Paid Ads,2024-02-04,25
+CUST_0269,Company_269,Education,Germany,Partner,2024-06-16,10
+CUST_0270,Company_270,E-commerce,Netherlands,Paid Ads,2024-02-07,25
+CUST_0271,Company_271,SaaS,France,Referral,2024-04-10,50
+CUST_0272,Company_272,E-commerce,UK,Partner,2024-06-08,1000
+CUST_0273,Company_273,SaaS,Other EU,Referral,2024-02-02,50
+CUST_0274,Company_274,Healthcare,Germany,Paid Ads,2023-08-23,1000
+CUST_0275,Company_275,Consulting,Spain,Paid Ads,2023-08-25,1000
+CUST_0276,Company_276,Healthcare,Spain,Partner,2023-11-20,1000
+CUST_0277,Company_277,SaaS,France,Referral,2024-08-23,500
+CUST_0278,Company_278,SaaS,Germany,Referral,2023-11-14,50
+CUST_0279,Company_279,Consulting,UK,Direct,2024-10-14,25
+CUST_0280,Company_280,Media,Germany,Referral,2024-04-15,10
+CUST_0281,Company_281,Healthcare,UK,Paid Ads,2023-08-16,25
+CUST_0282,Company_282,Manufacturing,Netherlands,Partner,2024-01-06,250
+CUST_0283,Company_283,E-commerce,Italy,Direct,2024-05-01,1000
+CUST_0284,Company_284,SaaS,France,Paid Ads,2024-05-12,500
+CUST_0285,Company_285,Education,France,Paid Ads,2024-02-03,25
+CUST_0286,Company_286,E-commerce,Germany,Direct,2024-07-21,500
+CUST_0287,Company_287,Education,UK,Paid Ads,2024-06-12,25
+CUST_0288,Company_288,SaaS,Germany,Paid Ads,2024-01-19,25
+CUST_0289,Company_289,Finance,Netherlands,Paid Ads,2024-07-27,10
+CUST_0290,Company_290,Education,Netherlands,Direct,2023-07-04,100
+CUST_0291,Company_291,Healthcare,UK,Partner,2024-03-29,1000
+CUST_0292,Company_292,E-commerce,UK,Referral,2023-12-29,100
+CUST_0293,Company_293,Education,Italy,Partner,2023-07-10,250
+CUST_0294,Company_294,Media,Netherlands,Paid Ads,2024-02-05,10
+CUST_0295,Company_295,SaaS,Other EU,Direct,2024-01-24,250
+CUST_0296,Company_296,Consulting,Germany,Partner,2024-02-21,25
+CUST_0297,Company_297,Media,UK,Paid Ads,2024-02-09,50
+CUST_0298,Company_298,Consulting,Germany,Partner,2024-07-16,10
+CUST_0299,Company_299,E-commerce,UK,Direct,2024-03-18,1000
+CUST_0300,Company_300,Consulting,Netherlands,Partner,2023-12-26,1000
+CUST_0301,Company_301,Healthcare,Germany,Paid Ads,2023-09-14,25
+CUST_0302,Company_302,Finance,Netherlands,Referral,2024-05-04,25
+CUST_0303,Company_303,Education,UK,Referral,2024-10-30,250
+CUST_0304,Company_304,Consulting,Spain,Referral,2024-02-15,25
+CUST_0305,Company_305,E-commerce,UK,Referral,2024-02-11,1000
+CUST_0306,Company_306,SaaS,UK,Direct,2023-11-18,100
+CUST_0307,Company_307,SaaS,Germany,Partner,2024-02-17,10
+CUST_0308,Company_308,E-commerce,France,Paid Ads,2024-05-26,100
+CUST_0309,Company_309,SaaS,UK,Partner,2024-04-23,500
+CUST_0310,Company_310,Consulting,France,Paid Ads,2023-10-05,10
+CUST_0311,Company_311,E-commerce,Spain,Partner,2024-02-16,500
+CUST_0312,Company_312,Finance,Germany,Referral,2023-08-13,100
+CUST_0313,Company_313,Finance,UK,Events,2024-03-25,100
+CUST_0314,Company_314,Consulting,France,Direct,2024-01-26,500
+CUST_0315,Company_315,Consulting,Germany,Direct,2024-05-27,500
+CUST_0316,Company_316,Manufacturing,Germany,Partner,2024-01-14,250
+CUST_0317,Company_317,Finance,Germany,Referral,2024-09-20,25
+CUST_0318,Company_318,Consulting,Germany,Referral,2024-10-12,500
+CUST_0319,Company_319,Finance,France,Events,2024-01-17,50
+CUST_0320,Company_320,Media,France,Paid Ads,2024-04-12,25
+CUST_0321,Company_321,E-commerce,France,Paid Ads,2024-06-08,50
+CUST_0322,Company_322,Consulting,Germany,Events,2023-07-10,50
+CUST_0323,Company_323,Education,Germany,Events,2024-10-28,25
+CUST_0324,Company_324,Manufacturing,Spain,Direct,2023-08-09,1000
+CUST_0325,Company_325,SaaS,France,Partner,2024-04-02,250
+CUST_0326,Company_326,Media,Germany,Direct,2023-09-06,500
+CUST_0327,Company_327,Finance,Netherlands,Direct,2024-07-29,50
+CUST_0328,Company_328,Healthcare,Other EU,Referral,2024-06-11,1000
+CUST_0329,Company_329,Education,Germany,Direct,2024-07-18,1000
+CUST_0330,Company_330,Education,Italy,Direct,2024-08-05,500
+CUST_0331,Company_331,Education,UK,Paid Ads,2024-10-27,100
+CUST_0332,Company_332,Media,Other EU,Partner,2024-03-14,1000
+CUST_0333,Company_333,Finance,Spain,Direct,2024-05-05,100
+CUST_0334,Company_334,Consulting,France,Direct,2024-09-20,1000
+CUST_0335,Company_335,E-commerce,Germany,Partner,2024-03-21,50
+CUST_0336,Company_336,Finance,Spain,Direct,2024-02-16,25
+CUST_0337,Company_337,Education,Italy,Events,2024-08-22,100
+CUST_0338,Company_338,Media,UK,Direct,2023-07-28,10
+CUST_0339,Company_339,Healthcare,Germany,Events,2024-01-08,1000
+CUST_0340,Company_340,Consulting,Netherlands,Direct,2024-06-30,50
+CUST_0341,Company_341,Education,France,Direct,2024-10-12,500
+CUST_0342,Company_342,Education,France,Events,2024-02-26,10
+CUST_0343,Company_343,Healthcare,Spain,Paid Ads,2023-11-09,500
+CUST_0344,Company_344,Media,Germany,Paid Ads,2024-05-07,50
+CUST_0345,Company_345,SaaS,Germany,Referral,2023-09-01,250
+CUST_0346,Company_346,E-commerce,Germany,Events,2024-02-20,250
+CUST_0347,Company_347,SaaS,France,Referral,2024-03-31,500
+CUST_0348,Company_348,Manufacturing,UK,Referral,2023-09-12,25
+CUST_0349,Company_349,Media,Germany,Referral,2024-04-18,250
+CUST_0350,Company_350,E-commerce,Other EU,Paid Ads,2024-01-01,1000
+CUST_0351,Company_351,SaaS,UK,Paid Ads,2024-03-16,500
+CUST_0352,Company_352,Consulting,Germany,Direct,2024-01-15,1000
+CUST_0353,Company_353,Consulting,Germany,Referral,2023-08-04,10
+CUST_0354,Company_354,Consulting,Germany,Paid Ads,2024-07-30,50
+CUST_0355,Company_355,Finance,Spain,Referral,2024-08-20,500
+CUST_0356,Company_356,Finance,Spain,Direct,2024-03-02,1000
+CUST_0357,Company_357,Education,Germany,Direct,2024-10-26,1000
+CUST_0358,Company_358,SaaS,Germany,Paid Ads,2023-10-11,100
+CUST_0359,Company_359,Education,Germany,Partner,2024-08-21,25
+CUST_0360,Company_360,Consulting,Spain,Direct,2023-11-24,500
+CUST_0361,Company_361,Manufacturing,Germany,Paid Ads,2023-12-17,100
+CUST_0362,Company_362,Education,Italy,Paid Ads,2024-07-15,25
+CUST_0363,Company_363,Education,UK,Partner,2024-03-11,50
+CUST_0364,Company_364,E-commerce,Netherlands,Direct,2024-08-14,250
+CUST_0365,Company_365,Finance,UK,Paid Ads,2024-08-25,10
+CUST_0366,Company_366,Manufacturing,Germany,Referral,2023-12-15,100
+CUST_0367,Company_367,Education,UK,Direct,2023-09-24,1000
+CUST_0368,Company_368,Consulting,France,Paid Ads,2024-10-09,500
+CUST_0369,Company_369,SaaS,Germany,Referral,2024-08-09,50
+CUST_0370,Company_370,Finance,Other EU,Direct,2024-03-19,250
+CUST_0371,Company_371,Education,Germany,Direct,2024-06-12,1000
+CUST_0372,Company_372,Consulting,UK,Events,2024-05-26,10
+CUST_0373,Company_373,Finance,France,Events,2024-05-05,50
+CUST_0374,Company_374,E-commerce,France,Paid Ads,2024-02-13,100
+CUST_0375,Company_375,Manufacturing,Germany,Direct,2023-12-08,500
+CUST_0376,Company_376,Education,UK,Events,2023-10-04,10
+CUST_0377,Company_377,Manufacturing,Netherlands,Direct,2023-11-12,250
+CUST_0378,Company_378,Education,Germany,Direct,2023-11-24,10
+CUST_0379,Company_379,Finance,Italy,Paid Ads,2024-02-17,10
+CUST_0380,Company_380,Consulting,France,Referral,2024-08-18,250
+CUST_0381,Company_381,Manufacturing,Italy,Partner,2024-04-03,500
+CUST_0382,Company_382,Finance,Netherlands,Paid Ads,2024-06-28,10
+CUST_0383,Company_383,Finance,Germany,Paid Ads,2023-10-11,50
+CUST_0384,Company_384,Consulting,UK,Events,2024-04-09,25
+CUST_0385,Company_385,E-commerce,Germany,Paid Ads,2024-05-09,500
+CUST_0386,Company_386,Education,UK,Partner,2024-07-03,1000
+CUST_0387,Company_387,E-commerce,Germany,Paid Ads,2024-04-20,10
+CUST_0388,Company_388,Education,France,Paid Ads,2024-02-16,1000
+CUST_0389,Company_389,Finance,Netherlands,Direct,2024-08-03,250
+CUST_0390,Company_390,SaaS,Spain,Paid Ads,2024-10-09,50
+CUST_0391,Company_391,Finance,Germany,Referral,2023-09-23,50
+CUST_0392,Company_392,Manufacturing,Spain,Paid Ads,2024-10-28,500
+CUST_0393,Company_393,Manufacturing,Germany,Paid Ads,2024-11-01,250
+CUST_0394,Company_394,Finance,France,Referral,2023-08-17,25
+CUST_0395,Company_395,Consulting,Spain,Referral,2024-06-02,1000
+CUST_0396,Company_396,SaaS,Germany,Events,2024-09-15,1000
+CUST_0397,Company_397,Manufacturing,France,Partner,2024-04-21,100
+CUST_0398,Company_398,SaaS,UK,Referral,2024-05-12,50
+CUST_0399,Company_399,Manufacturing,UK,Partner,2024-05-24,500
+CUST_0400,Company_400,Manufacturing,UK,Referral,2024-01-24,25
+CUST_0401,Company_401,Media,UK,Direct,2024-02-11,250
+CUST_0402,Company_402,Consulting,Spain,Paid Ads,2023-09-12,1000
+CUST_0403,Company_403,Media,Germany,Paid Ads,2023-12-24,250
+CUST_0404,Company_404,Consulting,Germany,Direct,2023-08-24,100
+CUST_0405,Company_405,Finance,Germany,Paid Ads,2023-11-04,100
+CUST_0406,Company_406,Media,Germany,Partner,2024-09-15,25
+CUST_0407,Company_407,Consulting,Italy,Referral,2024-08-20,25
+CUST_0408,Company_408,Finance,UK,Paid Ads,2024-07-25,100
+CUST_0409,Company_409,Manufacturing,UK,Direct,2024-09-23,100
+CUST_0410,Company_410,Education,Other EU,Direct,2024-03-15,50
+CUST_0411,Company_411,SaaS,Germany,Referral,2023-07-25,1000
+CUST_0412,Company_412,Education,Germany,Direct,2024-05-30,10
+CUST_0413,Company_413,Finance,Italy,Referral,2024-02-06,1000
+CUST_0414,Company_414,Consulting,Germany,Direct,2024-01-23,250
+CUST_0415,Company_415,Consulting,France,Direct,2023-10-08,250
+CUST_0416,Company_416,Manufacturing,Spain,Referral,2024-02-16,250
+CUST_0417,Company_417,Finance,Other EU,Paid Ads,2023-08-30,1000
+CUST_0418,Company_418,Consulting,Netherlands,Direct,2023-12-21,250
+CUST_0419,Company_419,SaaS,Germany,Direct,2024-01-22,50
+CUST_0420,Company_420,Education,UK,Direct,2024-08-15,250
+CUST_0421,Company_421,Consulting,Italy,Paid Ads,2023-09-10,100
+CUST_0422,Company_422,Manufacturing,France,Paid Ads,2024-05-11,250
+CUST_0423,Company_423,Education,Netherlands,Paid Ads,2024-03-29,1000
+CUST_0424,Company_424,Consulting,Germany,Direct,2023-07-09,100
+CUST_0425,Company_425,Manufacturing,Netherlands,Referral,2024-04-24,500
+CUST_0426,Company_426,SaaS,France,Paid Ads,2024-05-18,500
+CUST_0427,Company_427,Healthcare,Netherlands,Referral,2024-08-04,25
+CUST_0428,Company_428,Media,Germany,Referral,2024-03-25,10
+CUST_0429,Company_429,E-commerce,Germany,Paid Ads,2024-04-19,100
+CUST_0430,Company_430,Media,France,Paid Ads,2023-09-16,1000
+CUST_0431,Company_431,Education,Spain,Referral,2024-05-09,10
+CUST_0432,Company_432,Finance,UK,Referral,2024-06-26,500
+CUST_0433,Company_433,Media,Germany,Direct,2024-03-01,250
+CUST_0434,Company_434,Consulting,France,Partner,2023-12-23,500
+CUST_0435,Company_435,Manufacturing,France,Direct,2024-05-25,25
+CUST_0436,Company_436,Manufacturing,Germany,Events,2023-11-20,50
+CUST_0437,Company_437,Manufacturing,Netherlands,Referral,2024-07-29,100
+CUST_0438,Company_438,Education,Germany,Events,2023-12-10,1000
+CUST_0439,Company_439,Manufacturing,Germany,Referral,2024-07-04,250
+CUST_0440,Company_440,Media,Spain,Events,2024-01-11,1000
+CUST_0441,Company_441,Manufacturing,Germany,Events,2023-09-13,10
+CUST_0442,Company_442,Education,France,Referral,2023-12-25,25
+CUST_0443,Company_443,Manufacturing,Italy,Referral,2023-10-12,25
+CUST_0444,Company_444,Healthcare,Germany,Referral,2023-08-25,250
+CUST_0445,Company_445,Healthcare,Germany,Paid Ads,2023-10-24,500
+CUST_0446,Company_446,E-commerce,France,Direct,2024-02-27,250
+CUST_0447,Company_447,Finance,UK,Events,2024-10-18,100
+CUST_0448,Company_448,Healthcare,Netherlands,Paid Ads,2024-03-01,50
+CUST_0449,Company_449,SaaS,Italy,Direct,2024-05-26,250
+CUST_0450,Company_450,SaaS,Italy,Direct,2023-10-27,1000
+CUST_0451,Company_451,SaaS,Other EU,Paid Ads,2023-09-29,100
+CUST_0452,Company_452,Manufacturing,Spain,Direct,2023-10-04,250
+CUST_0453,Company_453,E-commerce,Italy,Paid Ads,2024-05-04,100
+CUST_0454,Company_454,Education,Italy,Direct,2024-05-24,250
+CUST_0455,Company_455,Manufacturing,Germany,Direct,2024-02-25,25
+CUST_0456,Company_456,Education,France,Referral,2024-07-09,10
+CUST_0457,Company_457,Consulting,Netherlands,Referral,2024-07-12,1000
+CUST_0458,Company_458,Finance,France,Referral,2023-10-07,100
+CUST_0459,Company_459,Media,UK,Direct,2024-08-27,500
+CUST_0460,Company_460,Finance,Other EU,Paid Ads,2023-08-18,25
+CUST_0461,Company_461,Manufacturing,UK,Paid Ads,2023-07-04,50
+CUST_0462,Company_462,Consulting,Germany,Referral,2024-10-31,10
+CUST_0463,Company_463,Consulting,France,Direct,2023-11-11,10
+CUST_0464,Company_464,Manufacturing,Germany,Referral,2024-02-24,500
+CUST_0465,Company_465,Manufacturing,France,Referral,2024-07-29,50
+CUST_0466,Company_466,Healthcare,Germany,Direct,2024-01-05,25
+CUST_0467,Company_467,Consulting,UK,Paid Ads,2024-02-18,100
+CUST_0468,Company_468,Healthcare,Netherlands,Referral,2024-07-22,250
+CUST_0469,Company_469,E-commerce,UK,Paid Ads,2024-09-20,50
+CUST_0470,Company_470,E-commerce,Germany,Paid Ads,2023-08-09,250
+CUST_0471,Company_471,Finance,Germany,Partner,2023-10-12,100
+CUST_0472,Company_472,Healthcare,Netherlands,Paid Ads,2023-08-29,250
+CUST_0473,Company_473,SaaS,UK,Paid Ads,2024-02-14,100
+CUST_0474,Company_474,SaaS,France,Referral,2024-04-14,50
+CUST_0475,Company_475,SaaS,UK,Partner,2024-07-05,500
+CUST_0476,Company_476,E-commerce,Germany,Paid Ads,2023-10-20,10
+CUST_0477,Company_477,SaaS,Italy,Direct,2024-04-03,100
+CUST_0478,Company_478,Manufacturing,UK,Partner,2023-07-17,1000
+CUST_0479,Company_479,Media,UK,Partner,2024-05-24,100
+CUST_0480,Company_480,Media,UK,Referral,2024-09-18,500
+CUST_0481,Company_481,Finance,France,Paid Ads,2024-09-20,25
+CUST_0482,Company_482,Media,UK,Referral,2024-04-01,25
+CUST_0483,Company_483,SaaS,Netherlands,Events,2024-08-31,100
+CUST_0484,Company_484,Media,UK,Partner,2024-06-09,25
+CUST_0485,Company_485,Consulting,Germany,Direct,2024-02-21,500
+CUST_0486,Company_486,E-commerce,Germany,Referral,2024-07-26,250
+CUST_0487,Company_487,SaaS,Germany,Direct,2024-07-27,250
+CUST_0488,Company_488,Education,France,Referral,2023-07-18,10
+CUST_0489,Company_489,SaaS,UK,Direct,2023-11-03,25
+CUST_0490,Company_490,SaaS,Germany,Events,2024-07-21,25
+CUST_0491,Company_491,Consulting,France,Partner,2024-08-21,1000
+CUST_0492,Company_492,Healthcare,Germany,Direct,2023-12-12,500
+CUST_0493,Company_493,Healthcare,UK,Paid Ads,2024-03-23,250
+CUST_0494,Company_494,Finance,France,Paid Ads,2024-10-28,100
+CUST_0495,Company_495,Consulting,Italy,Referral,2023-07-25,1000
+CUST_0496,Company_496,Consulting,France,Paid Ads,2024-03-25,50
+CUST_0497,Company_497,Finance,Netherlands,Paid Ads,2024-01-09,1000
+CUST_0498,Company_498,Manufacturing,Spain,Direct,2023-10-24,100
+CUST_0499,Company_499,SaaS,France,Events,2024-10-11,250
+CUST_0500,Company_500,Finance,UK,Paid Ads,2024-03-28,50
